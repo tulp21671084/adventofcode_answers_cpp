@@ -1,1 +1,1 @@
-# adventofcode_answers_cpp
+All programs are compiled with gcc -Wall -Wextra
