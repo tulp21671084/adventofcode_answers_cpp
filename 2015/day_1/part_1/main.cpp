@@ -16,7 +16,7 @@ int main(int argc, char* argv[])
         }
         iCurrentFloor--;
     }    
-    std::cout << "Floor: " << iCurrentFloor << '\n';
+    std::cout << "Floor: " << iCurrentFloor << '\n'; /* This is your answer */
     
     return 0;
 }
